@@ -1,11 +1,12 @@
 /* start style navbar */
 
-nav a {
-    color: white;
+nav {
+    color: rgb(255, 255, 255);
 }
 
-nav {
-    color: white;
+nav a {
+    color: rgb(117, 117, 117);
+    text-decoration: none;
 }
 
 button {
